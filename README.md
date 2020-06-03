@@ -21,7 +21,7 @@ First for each feature in Iris dataset, Gaussian mixture models (GMM) parameters
 ![image](https://user-images.githubusercontent.com/53164959/83671905-63aa1580-a610-11ea-85f3-b560e154ee7e.png)
 
 ![image](https://user-images.githubusercontent.com/53164959/83671970-7c1a3000-a610-11ea-92e5-042ac69f5f32.png)
-                              <slies from il-chul Moon,Department of System Engineering,KAIST>
+                              <slides from il-chul Moon,Department of System Engineering,KAIST>
 ## 5. Visualization
 
 ![image](https://user-images.githubusercontent.com/53164959/83673010-26df1e00-a612-11ea-9c7e-0ea568546793.png)
